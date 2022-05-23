@@ -8,8 +8,3 @@
 
 ## Bulit with 
 - Javascript
-- Javascript
-- Javascript
-- Javascript
-- Javascript
-- Javascript
